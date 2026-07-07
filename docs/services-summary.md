@@ -129,7 +129,7 @@ www.miempresa.com        → 200.100.50.20 (Web público)
 | www.miempresa.com | 200.100.50.20 (público) | Cualquier sede |
 | mail.miempresa.com | 10.192.42.166 (Lima) | Cualquier sede |
 | www.lima.miempresa.com | 10.192.42.162 | Registrado en Lima |
-| www.<sede>.miempresa.com | WEB local | Su propia sede |
+| www."sede".miempresa.com | WEB local | Su propia sede |
 
 ---
 
