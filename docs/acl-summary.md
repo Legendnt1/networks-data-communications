@@ -72,7 +72,7 @@ la frontera de alineación /20 y no admite resumen en una sola wildcard.
 
 ### 3.1 Política IP — Aislar Finanzas
 **CORE_LIMA · Vlan113 (Finanzas) · out**
-Ninguna VLAN de usuario alcanza Finanzas (dato sensible).
+Solo VLAN de Administración gestiona Finanzas (dato sensible).
 
 ```cisco
 ip access-list standard ACL-STD-FIN-LIMA
